@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget id="ListenListviewSetter.widget.ListenListviewSetter" needsEntityContext="false" xmlns="http://www.mendix.com/widget/1.0/">
+    <name>ListenListviewSetter</name>
+    <description>Setting the selected state on a listen to listview when loaded. Hence offering the visual feedback to the user that an element is indeed selected.</description>
+
+    <icon />
+
+    <properties>
+        <property key="targetName" type="string" required="true" defaultValue="">
+            <caption>Target listview</caption>
+            <category>General</category>
+            <description>Enter the name of the listview that needs to be set.</description>
+        </property>
+    </properties>
+</widget>
+
