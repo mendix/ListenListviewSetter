@@ -115,7 +115,7 @@ define([
         },
 
         // method for selecting the first child of the listview
-        _selectFirstElement(listview) {
+        _selectFirstElement: function(listview) {
             var listNode, listviewItemNode;
             
             listNode = dojoQuery("ul.mx-list", listview)[0]; 
