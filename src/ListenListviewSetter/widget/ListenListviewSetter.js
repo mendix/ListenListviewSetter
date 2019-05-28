@@ -4,7 +4,7 @@
     ========================
 
     @file      : ListenListviewSetter.js
-    @version   : 1.0.0
+    @version   : 1.0.1
     @author    : Willem Gorisse
     @date      : 2018-7-9
     @copyright : Mendix 2018

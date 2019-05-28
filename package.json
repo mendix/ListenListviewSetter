@@ -1,6 +1,6 @@
 {
   "name": "ListenListviewSetter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sets the selected state on the first element of the listview when loaded, making it possible for users to immediately see which listview item is selected.",
   "license": "Apache 2",
   "author": "Willem Gorisse",

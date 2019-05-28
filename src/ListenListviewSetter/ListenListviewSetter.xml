@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <widget id="ListenListviewSetter.widget.ListenListviewSetter" needsEntityContext="false" xmlns="http://www.mendix.com/widget/1.0/">
-    <name>ListenListviewSetter</name>
+    <name>Listen Listview Setter</name>
     <description>Setting the selected state on a listen to listview when loaded. Hence offering the visual feedback to the user that an element is indeed selected.</description>
-
     <icon>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAHdJREFUeNpiYBjpgBHG8NjwvQFI1UO5jTsCOBuQFaLJUwrg5jMhCdbjYOMTIxfAzWIa6ChAdkAjDjY+MbKjgGEUjAL0ciA0NBSlHFi9ejVKOYAmT3EihJk/Wg6MlgOjYLQcGC0HRsuBUTBaDoyWA6PlwIADgAADAFk3OB1BJ7WeAAAAAElFTkSuQmCC</icon>
-
     <properties>
         <property key="targetName" type="string" required="true" defaultValue="">
             <caption>Target listview</caption>
@@ -13,4 +11,3 @@
         </property>
     </properties>
 </widget>
-
