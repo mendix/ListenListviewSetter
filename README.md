@@ -1,6 +1,8 @@
 # ListenListviewSetter widget
 
-A very easy way of making sure that a listview - that is used in a listen-to construction - sets its first list element on a "selected" state when the page is loaded. Making sure that the users of the application get the correct feedback.
+[DEPRECATED*] A very easy way of making sure that a listview - that is used in a listen-to construction - sets its first list element on a "selected" state when the page is loaded. Making sure that the users of the application get the correct feedback.
+
+* Starting from Mendix version 7.22 this widget is no longer needed. The selections will be done for you by the platform widget out of the box.
 
 ## Contributing
 
